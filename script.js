@@ -1,0 +1,1 @@
+// JavaScript to display the current date
